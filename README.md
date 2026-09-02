@@ -12,8 +12,8 @@ All you trash mammals can now enjoy it without having to unlock the Windows' ass
 ## :bowl_with_spoon: Installation
 
 - [Download](https://github.com/kexiku/pizza/archive/refs/heads/main.zip) the project source
-- Locate the `Install.inf` file
-- Right click > 'Install'
+- Locate the `~Install.inf` file in the `src` folder
+- Right click > Install
 
 ## :plate_with_cutlery: Overview
 
