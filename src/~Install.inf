@@ -9,7 +9,7 @@ AddReg    = Scheme.Reg,Wreg
 Scheme.Cur = 10,"%CUR_DIR%"
 
 [Scheme.Reg]
-HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%working%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%precision%,%CUR_DIR%\%text%,%10%\%CUR_DIR%\%handwriting%,%10%\%CUR_DIR%\%unavailable%,%10%\%CUR_DIR%\%vertical%,%10%\%CUR_DIR%\%horizontal%,%10%\%CUR_DIR%\%diagonal_1%,%10%\%CUR_DIR%\%diagonal_2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%location%,%10%\%CUR_DIR%\%person%"
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%working%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%precision%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%handwriting%,%10%\%CUR_DIR%\%unavailable%,%10%\%CUR_DIR%\%vertical%,%10%\%CUR_DIR%\%horizontal%,%10%\%CUR_DIR%\%diagonal_1%,%10%\%CUR_DIR%\%diagonal_2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%location%,%10%\%CUR_DIR%\%person%"
 
 [Wreg]
 HKCU,"Control Panel\Cursors",,0x00020000,"%SCHEME_NAME%"
