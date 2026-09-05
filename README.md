@@ -3,11 +3,49 @@
 </p>
 
 > In memory of Alec Holowka.  
-> The Universe doesn't care. But we do :white_heart:
+> The universe may not care. But we do :white_heart:
 
-Since the first [attempt](https://www.reddit.com/r/NightInTheWoods/comments/63mb0h/pizza_cursor_for_windows_32x32_px) to replicate Mae’s cursor didn’t come with a convenient way to install it, I decided to fix that.
+*Hungry?*  
+*Depressed?*  
+*Tired of spending the nights staring at the same screen?*
 
-All you trash mammals can now enjoy it without having to unlock the Windows' ass :tada:
+**Good news!**  
+Kexi's Pizza Cursor™ is here to bring the taste of the finest homemade pepperoni directly to your desktop :pizza:
+
+That’s right.  
+Pizza. For your desktop.
+
+:white_check_mark: Gluten-free  
+:negative_squared_cross_mark: No cooking required  
+:heart_decoration: Tested on rats *(they love it)*
+
+## :brain: Why not just use a normal cursor?..
+
+Normal cursors are boring.
+
+- They point at things.  
+- They click things.  
+- They probably fill out state income tax forms.
+
+Kexi's Pizza Cursor™ does none of that.
+
+- It sits there.  
+- It judges you.  
+- It reminds you that you can't afford a real pizza slice in this cursed economy.
+
+**Finally, a cursor that understands your better than your mom** :heartpulse:
+
+Are you interested?
+
+## :fire: SPECIAL DEAL :fire:
+
+Star :star: this repo and get your very own **FREE LIFETIME MEMBERSHIP** in the prestigious **Possum Springs Duskwatchers Club**.
+
+*New member bonus: one (1) trained raccoon.*
+
+### :raccoon: Join today and start exploring the sky!*
+
+<sup><sup><i>* Limited-time offer, get yours before we get put away for overdue utility bills.</i></sup></sup>
 
 ## :bowl_with_spoon: Installation
 
@@ -23,9 +61,9 @@ All you trash mammals can now enjoy it without having to unlock the Windows' ass
 
 ## :tomato: Sources
 
-- Donut Wolf [wallpaper](https://www.deviantart.com/ostin/art/NITW-Donut-Wolf-5k-701247240) *(damn)*
-- Fancy [font](https://mega.nz/file/YRMniI7A#MJU_PZYtgI-rWwHSdd7D6_Zb7hM0EvqNyhFOmDMx5YU) *(geez)*
-- [Gr'eggs](https://private-user-images.githubusercontent.com/123443918/644860565-8c1c7276-a27a-4308-8262-fcff95906b7c.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgzMzY4NTYsIm5iZiI6MTc4ODMzNjU1NiwicGF0aCI6Ii8xMjM0NDM5MTgvNjQ0ODYwNTY1LThjMWM3Mjc2LWEyN2EtNDMwOC04MjYyLWZjZmY5NTkwNmI3Yy53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkwMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MDJUMDgwOTE2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODRhNzFmMjZjN2Y1ODMxMzE5MDdjZjMxZjcwYzMxOWQwMzkzZDY1NThiOWFmNDUxZmFkNGNhMmY2MzMyYTM3YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.i_oUdNiAeAHMT6C35GcPfvz4c_CJWYWwnUXny9tWWF8) *(wth)*
+- Fantastic [wallpaper](https://www.deviantart.com/ostin/art/NITW-Donut-Wolf-5k-701247240) *(damn)*
+- Dope ass [font](https://mega.nz/file/YRMniI7A#MJU_PZYtgI-rWwHSdd7D6_Zb7hM0EvqNyhFOmDMx5YU) *(geez)*
+- Fried [gr'eggs](https://private-user-images.githubusercontent.com/123443918/644860565-8c1c7276-a27a-4308-8262-fcff95906b7c.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgzMzY4NTYsIm5iZiI6MTc4ODMzNjU1NiwicGF0aCI6Ii8xMjM0NDM5MTgvNjQ0ODYwNTY1LThjMWM3Mjc2LWEyN2EtNDMwOC04MjYyLWZjZmY5NTkwNmI3Yy53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkwMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MDJUMDgwOTE2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODRhNzFmMjZjN2Y1ODMxMzE5MDdjZjMxZjcwYzMxOWQwMzkzZDY1NThiOWFmNDUxZmFkNGNhMmY2MzMyYTM3YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.i_oUdNiAeAHMT6C35GcPfvz4c_CJWYWwnUXny9tWWF8) *(wth)*
 
 ## :scroll: License
 
@@ -33,10 +71,11 @@ This project is licensed under the MIT License, see [`LICENSE`](./LICENSE) for d
 
 ---
 
-This is an unofficial, non-commercial fan project inspired by *Night in the Woods*.  
+This is an unofficial, non-commercial fanwork inspired by *Night in the Woods*.  
+All crimes reserved.
 
-*Night in the Woods*, its characters, artwork, and other original content are the property of their respective copyright holders.
+No more legal rubbish here, cause eff the lawyers.
 
-If you are the creator of the original pizza source files and would like your work to be fully removed from this project, please contact me via email: [kexiku@proton.me](mailto:kexiku@proton.me)
+If you have any claims, suggestions, wishes, dishes, squishes, plushies, sushis, or just wanna say hi - feel free to contact me at [kexiku@proton.me](mailto:kexiku@proton.me)
 
 ### <p align="center"> 𓆩♡𓆪 </p>
