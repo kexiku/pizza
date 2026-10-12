@@ -63,7 +63,7 @@ Star :star: this repo and get your very own **FREE LIFETIME MEMBERSHIP** in the 
 
 - Fantastic [wallpaper](https://www.deviantart.com/ostin/art/NITW-Donut-Wolf-5k-701247240) *(damn)*
 - Dope ass [font](https://mega.nz/file/YRMniI7A#MJU_PZYtgI-rWwHSdd7D6_Zb7hM0EvqNyhFOmDMx5YU) *(geez)*
-- Fried [gr'eggs](https://private-user-images.githubusercontent.com/123443918/644860565-8c1c7276-a27a-4308-8262-fcff95906b7c.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgzMzY4NTYsIm5iZiI6MTc4ODMzNjU1NiwicGF0aCI6Ii8xMjM0NDM5MTgvNjQ0ODYwNTY1LThjMWM3Mjc2LWEyN2EtNDMwOC04MjYyLWZjZmY5NTkwNmI3Yy53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkwMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MDJUMDgwOTE2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODRhNzFmMjZjN2Y1ODMxMzE5MDdjZjMxZjcwYzMxOWQwMzkzZDY1NThiOWFmNDUxZmFkNGNhMmY2MzMyYTM3YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.i_oUdNiAeAHMT6C35GcPfvz4c_CJWYWwnUXny9tWWF8) *(wth)*
+- Fried [gr'eggs](https://raw.githubusercontent.com/kexiku/pizza/refs/heads/main/assets/greggs.webp) *(wth)*
 
 ## :scroll: License
 
